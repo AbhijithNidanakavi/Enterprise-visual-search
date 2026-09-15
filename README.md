@@ -1,6 +1,6 @@
 # Enterprise Visual Search
 
-This project implements the Tezo case-study as a production-oriented visual search system. It indexes the supplied image dataset, retrieves the top matching images for a natural-language query, and returns concise AI-driven explanations describing why each result is relevant.
+This project implements the case-study as a production-oriented visual search system. It indexes the supplied image dataset, retrieves the top matching images for a natural-language query, and returns concise AI-driven explanations describing why each result is relevant.
 
 ## What is included
 
